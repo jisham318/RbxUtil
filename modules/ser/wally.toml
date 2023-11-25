@@ -1,9 +1,9 @@
 [package]
-name = "sleitnick/ser"
+name = "jisham318/ser"
 description = "Ser class for serialization and deserialization"
 version = "1.0.5"
 license = "MIT"
-authors = ["Stephen Leitnick"]
+authors = ["Stephen Leitnick", "Jacob Isham"]
 registry = "https://github.com/UpliftGames/wally-index"
 realm = "shared"
 
